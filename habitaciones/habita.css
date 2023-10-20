@@ -1,0 +1,307 @@
+*{
+	margin:0.5px;
+	padding:0.5px;
+    background:#94C1D6;
+                
+}
+
+.habitat{
+	text-align: center;
+	font-weight: 2px;
+	font-family: "Gill Sans", sans-serif;
+}
+
+.parra{
+	text-align: center;
+	font-weight: 1px;
+	font-family: "Gill Sans", sans-serif;
+}
+
+.habitas{
+	display: inline-flex;
+	justify-content: center;
+	padding-top: 2%;
+	padding-right: 4%;
+}
+
+.habi1{
+	width: 1000Px;
+	height: 500px;
+	padding-left: 4%;
+}
+
+.titulo{
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+	padding-top: 7%;
+}
+
+.parra2{
+	
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.valor{
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.boton{
+	margin-top: 2%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	background: #610f27;
+	color: white;
+	align-items: center;
+	justify-content: center;
+}
+
+.habitas2{
+	display: inline-flex;
+	justify-content: center;
+	padding-top: 2%;
+	padding-right: 4%;
+}
+
+.habi2{
+	width: 1000Px;
+	height: 500px;
+	padding-left: 4%;
+}
+
+.titulo2{
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+	padding-top: 7%;
+}
+
+.parra3{
+	
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.valor2{
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.boton1{
+	margin-top: 2%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	background: #610f27;
+	color: white;
+	align-items: center;
+	justify-content: center;
+}
+
+.habitas3{
+	display: inline-flex;
+	justify-content: center;
+	padding-top: 2%;
+	padding-right: 4%;
+}
+
+.habi3{
+	width: 1000Px;
+	height: 500px;
+	padding-left: 4%;
+}
+
+.titulo3{
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+	padding-top: 7%;
+}
+
+.parra4{
+	
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.valor3{
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.boton2{
+	margin-top: 2%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	background: #610f27;
+	color: white;
+	align-items: center;
+	justify-content: center;
+}
+
+.habitas4{
+	display: inline-flex;
+	justify-content: center;
+	padding-top: 2%;
+	padding-right: 4%;
+}
+
+.habi4{
+	width: 1000Px;
+	height: 500px;
+	padding-left: 4%;
+}
+
+.titulo4{
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+	padding-top: 7%;
+}
+
+.parra5{
+	
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.valor4{
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.boton3{
+	margin-top: 2%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	background: #610f27;
+	color: white;
+	align-items: center;
+	justify-content: center;
+}
+
+.habitas5{
+	display: inline-flex;
+	justify-content: center;
+	padding-top: 2%;
+	padding-right: 4%;
+}
+
+.habi5{
+	width: 1000Px;
+	height: 500px;
+	padding-left: 4%;
+}
+
+.titulo5{
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+	padding-top: 7%;
+}
+
+.parra6{
+	
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.valor5{
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.boton4{
+	margin-top: 2%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	background: #610f27;
+	color: white;
+	align-items: center;
+	justify-content: center;
+}
+
+.habitas6{
+	display: inline-flex;
+	justify-content: center;
+	padding-top: 2%;
+	padding-right: 4%;
+}
+
+.habi6{
+	width: 1000Px;
+	height: 500px;
+	padding-left: 4%;
+	padding-bottom: 2%;
+}
+
+.titulo6{
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+	padding-top: 7%;
+}
+
+.parra7{
+	
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.valor6{
+	font-family: "Gill Sans", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.boton5{
+	margin-top: 2%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	background: #610f27;
+	color: white;
+	align-items: center;
+	justify-content: center;
+}

@@ -1,0 +1,68 @@
+*{
+	margin:0.5px;
+	padding:0.5px;
+    background:#94C1D6;
+                
+}
+
+.events{
+	text-align: center;
+	font-weight: 2px;
+	font-family: "Gill Sans", sans-serif;
+	padding-top: 1%;
+	padding-bottom: 3%;
+}
+
+.parrafo{
+	text-align: center;
+	font-weight: 2px;
+	font-family: "Gill Sans", sans-serif;
+	padding-top: 1%;
+	
+}
+
+.event1{
+	display:inline-flex;
+	justify-content: center;
+	padding-top: 2%;
+	padding-right: 4%;
+}
+
+.evento{
+	width: 1150Px;
+	height: 800px;
+	padding-left: 4%;
+	justify-content: justify;
+	
+}
+
+.sala1{
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+	justify-content: center;
+	font-size: 21px;
+}
+
+.event2{
+	display:inline-flex;
+	justify-content: center;
+	padding-top: 2%;
+	padding-right: 4%;
+}
+
+.evento1{
+	width: 1150Px;
+	height: 800px;
+	padding-left: 4%;
+	justify-content: justify;
+	
+}
+
+.sala2{
+	text-align: center;
+	font-family: "Gill Sans", sans-serif;
+	justify-content: center;
+	font-size: 21px;
+	padding-top: 1%;
+	padding-bottom: 3%;
+}

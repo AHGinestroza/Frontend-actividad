@@ -1,0 +1,180 @@
+#melody{
+	text-align: center;
+	font-weight: 2px;
+	font-family: "Gill Sans", sans-serif;
+	color: white;
+	background: #65889C;
+	width: 950px;
+	display: inline;
+}
+
+* {
+			margin:0.5px;
+			padding:0.5px;
+            background:#94C1D6;
+                
+			}
+			
+			#header {
+				margin:auto;
+				width:920px;
+				font-family:"Gill Sans", sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#65889C;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:inline-flex;
+			}
+			
+			.nav li a:hover {
+				background-color:#2C3033;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-120px;
+				top:0px;
+			}
+
+		
+			.imgp{
+				display:inline-flex;
+				justify-content: center;
+				padding-top: 2%;
+				padding-right: 2%;
+			}
+			.image1{
+				width: 1200Px;
+				height: 600px;
+				padding-right: 5%;
+
+			}
+			.titulo{
+				text-align: center;
+				font-family: "Gill Sans", sans-serif;
+				padding-top: 7%;
+
+				
+
+
+			}
+			.historia{
+				text-align: right;
+				font-family: "Gill Sans", sans-serif;
+				font-size: 18px;
+				text-align: justify;
+				padding-left: 7%;
+				padding-right: 7%;
+			}
+
+			.imgp2{
+				display:inline-flex;
+				justify-content: center;
+				align-items: center;
+				padding-top: 2%;
+				
+			}
+			.image2{
+				width: 1000Px;
+				height: 500px;
+				padding-right: 4%;
+
+			}
+			.titulo2{
+				text-align: center;
+				font-family: "Gill Sans", sans-serif;
+				padding-top: 3%;
+
+				
+
+
+			}
+			.historia2{
+				text-align: right;
+				font-family: "Gill Sans", sans-serif;
+				font-size: 18px;
+				text-align: justify;
+				padding-left: 7%;
+				padding-right: 7%;
+			}	
+
+			.imgp3{
+				display:inline-flex;
+				justify-content: center;
+				padding-top: 2%;
+				align-items: right;
+				padding-right: 2%;
+
+			}
+			.image3{
+				width: 1000Px;
+				height: 500px;
+				padding-right: 4%;
+
+			}
+			.titulo3{
+				text-align: center;
+				font-family: "Gill Sans", sans-serif;
+				padding-top: 7%;
+
+				
+
+
+			}
+			.historia3{
+				text-align: right;
+				font-family: "Gill Sans", sans-serif;
+				font-size: 18px;
+				text-align: justify;
+				padding-left: 7%;
+				padding-right: 7%;
+			}
+				
+			
+            .footuno {
+				text-align: center;
+				font-weight: bold;
+				font-weight: 2px;
+				font-family: "Gill Sans", sans-serif;
+			}
+            .pie {
+				text-align: center;
+				font-weight: 2px;
+				font-family: "Gill Sans", sans-serif;
+			}
+          
+          .telefono{
+          	font-weight: bold;
+          }
+
+          .correo{
+          	font-weight: bold;
+          }
+
+          .direcci{
+          	font-weight: bold;
+          }

@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Hotel Sweet Melody-Reservaciones</title>
+	<link rel="stylesheet" href="reservas.css">
+</head>
+<body>
+	<div class="testbox">
+      <form action="/">
+        <div class="banner">
+          <h1>Reservaciones</h1>
+        </div>
+        <p>Informacion</p>
+        <div class="item">
+          <label for="name">Nombre<span>*</span></label>
+          <input id="name" type="text" name="name" required/>
+        </div>
+         <div class="item">
+          <label for="apellido">Apellidos<span>*</span></label>
+          <input id="apellido" type="text" name="Apellidos" required/>
+        </div>
+        <div class="item">
+          <label for="email">Email<span>*</span></label>
+          <input id="email" type="email" name="email" required/>
+        </div>
+        <div class="item">
+          <label for="celular">Celular<span>*</span></label>
+          <input id="celular" type="number" name="celular" required/>
+        </div>
+        <div class="item">
+          <label for="Direccion">Direccion<span>*</span></label>
+          <input id="city" type="text" name="Direccion" required/>
+        </div>
+        <div class="personas">
+        <label for="personas">Seleccione el numero de la habitacion</label>
+        <select id="habitat" name="Habitacion">
+          <option value="Habitacion 1">Habitacion 1</option>
+          <option value="Habitacion 2">Habitacion 2</option>
+          <option value="Habitacion 3">Habitacion 3</option>
+          <option value="Habitacion 4">Habitacion 4</option>
+          <option value="Habitacion 5">Habitacion 5</option>
+          <option value="Habitacion 6">Habitacion 6</option>
+        </select>
+        </div>
+        <div class="item">
+          <label for="bdate">Fecha de llegada<span>*</span></label>
+          <input id="bdate" type="date" name="bdate" required/>
+          <i class="fas fa-calendar-alt"></i>
+        </div>
+         <div class="item">
+          <label for="bdate">Fecha de salida<span>*</span></label>
+          <input id="bdate" type="date" name="bdate" required/>
+          <i class="fas fa-calendar-alt"></i>
+        </div>
+        
+      
+        <div class="item">
+        <textarea id="subject" name="message" placeholder="Informacion adicional aqui"></textarea>
+        </div>
+        
+        <div class="btn-block">
+          <button type="submit" href="/">Solicitar Reserva</button>
+        </div>
+      </form>
+    </div>
+</body>
+</html>
